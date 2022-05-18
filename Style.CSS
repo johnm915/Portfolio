@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+head{
+    color: blue;
+    background-color: rgb(77, 77, 139);  
+}
+
+h1{
+    text-align: center;
+}
+#email,p{
+    outline: red;
+}
+body{
+    background-color: rgba(44, 48, 48, 0.932);
+    font-family: "Roboto Condensed";
+}
+p{
+    text-align: center;
+}
+
+h1{
+    color: black;
+}
+section{
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    color: brown;
+  }
